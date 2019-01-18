@@ -1,0 +1,11 @@
+topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 30px 32px;
+    text-decoration: none;
+    font-size: 30px;
+  }
+  #submit {
+    display: none;
+  }
